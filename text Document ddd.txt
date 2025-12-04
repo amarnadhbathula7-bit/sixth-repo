@@ -12,6 +12,7 @@ I am modifying the file to send it into develop branch to push into GitHub.
 =======
 
 
+
 moving this file from stage branch to develop branch
 
 
@@ -24,6 +25,7 @@ Tarak Nadh
 
 
 1f17a9c (rebase commit)
+<<<<<<< HEAD
 =======
 Tarak Nadh
 
@@ -40,3 +42,5 @@ Tarak Nadh
 git rebase 
 git cherry-pick
 >>>>>>> 9960575 (cherry-pick)
+=======
+>>>>>>> ddc4955 (commit)
