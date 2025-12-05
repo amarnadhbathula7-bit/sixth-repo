@@ -6,6 +6,7 @@ Agaan i am modifying the data to sand it into GitHub Repo
 I am modifying the file to send it into develop branch to push into GitHub.
 
 
+
 Tarak Nadh  
 
 
@@ -22,3 +23,9 @@ Tarak Nadh
 
 
 1f17a9c (rebase commit)
+=======
+Tarak Nadh
+
+
+Practicing the git commit transferring.
+
