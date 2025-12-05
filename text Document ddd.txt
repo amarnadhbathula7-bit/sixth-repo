@@ -33,3 +33,8 @@ Practicing the git commit transferring.
 
 Tarak Nadh
  5a673bd (I have added my name)
+
+
+
+git rebase 
+git cherry-pick
