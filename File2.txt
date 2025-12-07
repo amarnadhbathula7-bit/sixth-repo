@@ -1,14 +1,3 @@
 This develop branch file to push code intp local repogotiries
 
 
-In Git, a fork refers to a personal copy of another user’s repository. When you fork a repository, you create an independent copy that exists within your own account or organization. This copy includes
-
-All the files
-commit history
-branches present in the original repository at the time of forking.
-Why Use Forking?
-Forking is helpful in the following scenarios:
-
-You have your own copy of the project on which you may test your own changes without changing the original project.
-This helps the maintainer of the project to better check the changes you made to the project and has the power to either accept, reject or suggest something.
-When you clone an Open-Source project that isn’t yours, you don’t have the right to push code directly into the project. 
